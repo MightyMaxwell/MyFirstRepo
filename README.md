@@ -1,7 +1,9 @@
-# __MyFirstRepo__
-Repo for learning Git and GitHub
+# __My Accomplishments__
+
 ## My learning journey
 ### LinkedIn Learning
 - Completed "Git Essential Training" by Barbara Forbes
-  - Certificate earned
-- Currently going through "Learning Git and GitHub" by Ray Villalobos
+  [x] Certificate earned
+- Completed "Learning Git and GitHub" by Ray Villalobos
+  [x] Certificate earned
+- In Progress "Challenge your Git skills" by Ray Villalobos

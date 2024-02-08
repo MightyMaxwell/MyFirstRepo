@@ -1,5 +1,5 @@
 # __MyFirstRepo__
-Repo for learning Github
+Repo for learning Git and Github
 ## My learning journey
 ### LinkedIn Learning
 - Completed "Git Essential Training" by Barbara Forbes

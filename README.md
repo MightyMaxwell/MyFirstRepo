@@ -1,4 +1,4 @@
-# myFirstRepo
+# __MyFirstRepo__
 Repo for learning Github
 ## My learning journey
 ### LinkedIn Learning

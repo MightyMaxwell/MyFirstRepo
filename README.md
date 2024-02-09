@@ -23,7 +23,7 @@
   - <kdb>Remove local, keep master</kdb>
   - <kdb>Picking specific commits</kdb>
   - <kdb>Creating a safety net for fixes</kdb>
-
+</details>
 
 
 

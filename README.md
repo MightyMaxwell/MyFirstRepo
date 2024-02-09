@@ -2,6 +2,7 @@
 
 ## My learning journey
 ### LinkedIn Learning
+#### Git/GitHub
 - Completed "Git Essential Training" by Barbara Forbes
   - [x] Certificate earned
 - Completed "Learning Git and GitHub" by Ray Villalobos

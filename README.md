@@ -6,8 +6,9 @@
   - [x] Certificate earned
 - Completed "Learning Git and GitHub" by Ray Villalobos
   - [x] Certificate earned
-  <details>
-    <summary>Challenge your Git skills by Ray Villalobos</summary>
+  
+<details>
+<summary>Challenge your Git skills by Ray Villalobos</summary>
     
   - Cloning specific history
   - Adding to a previous commit

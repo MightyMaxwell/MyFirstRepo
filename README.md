@@ -9,22 +9,7 @@
   
 <details>
   <summary>Challenge your Git skills by Ray Villalobos</summary>
-    
-  - Cloning specific history
-  - Adding to a previous commit
-  - Identifying changes
-  - Managing multiple remotes
-  - Cleaner logging
-  - Using Git to hunt down bugs
-  - Working on multiple branches
-  - Creating a .zip of branch and specific files within that branch
-  - Getting rid of quick fixes by combining commits
-  - Marking commits with git tag
-  - Removing untracked files
-  - Renaming branches
-  - Remove local, keep master
-  - Picking specific commits
-  - Creating a safety net for fixes
+  
 </details>
 
 

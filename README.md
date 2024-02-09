@@ -8,21 +8,21 @@
   - [x] Certificate earned
   <details>
     <summary>Challenge your Git skills by Ray Villalobos</summary>
-  - <kdb>Cloning specific history</kdb>
-  - <kdb>Adding to a previous commit</kdb>
-  - <kdb>Identifying changes</kdb>
-  - <kdb>Managing multiple remotes</kdb>
-  - <kdb>Cleaner logging</kdb>
-  - <kdb>Using Git to hunt down bugs</kdb>
-  - <kdb>Working on multiple branches</kdb>
-  - <kdb>Creating a .zip of branch and specific files within that branch</kdb>
-  - <kdb>Getting rid of quick fixes by combining commits</kdb>
-  - <kdb>Marking commits with git tag</kdb>
-  - <kdb>Removing untracked files</kdb>
-  - <kdb>Renaming branches</kdb>
-  - <kdb>Remove local, keep master</kdb>
-  - <kdb>Picking specific commits</kdb>
-  - <kdb>Creating a safety net for fixes</kdb>
+  - <kbd>Cloning specific history</kbd>
+  - <kbd>Adding to a previous commit</kbd>
+  - <kbd>Identifying changes</kbd>
+  - <kbd>Managing multiple remotes</kbd>
+  - <kbd>Cleaner logging</kbd>
+  - <kbd>Using Git to hunt down bugs</kbd>
+  - <kbd>Working on multiple branches</kbd>
+  - <kbd>Creating a .zip of branch and specific files within that branch</kbd>
+  - <kbd>Getting rid of quick fixes by combining commits</kbd>
+  - <kbd>Marking commits with git tag</kbd>
+  - <kbd>Removing untracked files</kbd>
+  - <kbd>Renaming branches</kbd>
+  - <kbd>Remove local, keep master</kbd>
+  - <kbd>Picking specific commits</kbd>
+  - <kbd>Creating a safety net for fixes</kbd>
 </details>
 
 

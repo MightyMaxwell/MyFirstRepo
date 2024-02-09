@@ -9,7 +9,7 @@
   <details>
     <summary>Challenge your Git skills by Ray Villalobos</summary>
     
-  - <kbd>Cloning specific history</kbd> 
+  - Cloning specific history
   - Adding to a previous commit
   - Identifying changes
   - Managing multiple remotes

@@ -8,8 +8,8 @@
   - [x] Certificate earned
   <details>
     <summary>Challenge your Git skills by Ray Villalobos</summary>
-  - <kbd>Cloning specific history</kbd>
-  - <kbd>Adding to a previous commit</kbd>
+  - <kbd>[Cloning specific history]</kbd>
+  - <kbd>[Adding to a previous commit]</kbd>
   - <kbd>Identifying changes</kbd>
   - <kbd>Managing multiple remotes</kbd>
   - <kbd>Cleaner logging</kbd>

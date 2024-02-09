@@ -8,7 +8,7 @@
   - [x] Certificate earned
   
 <details>
-<summary>Challenge your Git skills by Ray Villalobos</summary>
+  <summary>Challenge your Git skills by Ray Villalobos</summary>
     
   - Cloning specific history
   - Adding to a previous commit
